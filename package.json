@@ -1,0 +1,19 @@
+{
+  "name": "rgr",
+  "version": "1.0.0",
+  "description": "rgr stack demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acp31/largeScaleReactAppStarter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acp31/largeScaleReactAppStarter/issues"
+  },
+  "homepage": "https://github.com/acp31/largeScaleReactAppStarter#readme"
+}
