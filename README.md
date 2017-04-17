@@ -10,8 +10,10 @@ To see the app in action run:
 
 1. npm install
 
-2. npm run dev
+2. place your mongodo uri in the server file in the server folder
 
-3. go to http://localhost:4000/
+3. npm run dev
+
+4. go to http://localhost:4000/
 
 
