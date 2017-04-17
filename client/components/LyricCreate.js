@@ -38,6 +38,7 @@ const mutation = gql`
     addLyricToSong(content: $content, songId: $songID) {
       id
       lyrics {
+        id
         content
       }
     }
